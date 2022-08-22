@@ -1,0 +1,54 @@
+﻿@charset "utf-8";
+
+
+/*Regular*/
+@font-face {
+    font-family: 'Arita';
+    src: url('../font/naver/NanumGothic.eot');
+    src:
+        url('../font/naver/NanumGothic.eot?#iefix') format('embedded-opentype'),
+    url('../font/naver/NanumGothic.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+/*Bold*/
+@font-face {
+    font-family: 'Arita B';
+    src: url('../font/naver/NanumGothicBold.eot');
+    src:
+        url('../font/naver/NanumGothicBold.eot?#iefix') format('embedded-opentype'),
+    url('../font/naver/NanumGothicBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Buri';
+    src: url('../font/naver/NanumGothicBold.eot');
+    src:
+            url('../font/naver/NanumGothicBold.eot?#iefix') format('embedded-opentype'),
+            url('../font/naver/NanumGothicBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+/*!*Bold*!
+@font-face {
+    !*font-family: 'Buri';
+    src: url('../font/aritaburi.eot');
+    src: local("Arita-buri(OTF)"), 
+         url('../font/aritaburi.eot?#iefix') format('embedded-opentype'),
+         url('../font/aritaburi.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;*!
+    font-family: 'ng';
+    src: url('../font/naver/NanumGothicBold.eot');
+    src:
+    !*url('../font/aritaburi.eot?#iefix') format('embedded-opentype'),*!
+    url('../font/naver/NanumGothicBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}*/
+
+

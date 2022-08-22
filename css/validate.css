@@ -1,0 +1,5 @@
+﻿@charset "utf-8";
+
+
+#joinform input p +.error{display:block; color:red;}
+#joinform span +.error{display:block; color:red;}
