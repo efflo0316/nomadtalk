@@ -1644,6 +1644,6 @@
 
 @media(max-width:390px){/*MainFooter*/
 	input {border: 1px solid #dddddd;}
-	.content_area {padding-bottom:142px;}
+	.content_area {padding-bottom:30px;}
 	.footer_area {height:125px;}
 }
